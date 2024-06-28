@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I+am+Sohaila+Ali!" alt="Typing SVG" /></a>
 
 # 💫 About Me: 
-🎓Grade 12 high school student<br>📍Toronto, Canada<br>🏆Won 3 hackathons
+🎓1st Year CS student @ Ontario Tech<br>📍Toronto, Canada<br>🏆Won 3 hackathons
 
 
 ## 🌐 Socials:
