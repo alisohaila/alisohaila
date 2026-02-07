@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I+am+Sohaila+Ali!" alt="Typing SVG" /></a>
 
 # 💫 About Me: 
-🎓2nd Year CS student @ Ontario Tech<br>📍Toronto, Canada<br>👩‍⚖️8x Hackathon Judge<br>🏆Won 3 hackathons
+🎓2nd Year CS student @ Ontario Tech<br>📍Toronto, Canada<br>👩‍⚖️9x Hackathon Judge<br>🏆Won 3 hackathons and 3 case competitions
 
 
 ## 🌐 Socials:
